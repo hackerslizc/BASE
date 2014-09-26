@@ -1,0 +1,253 @@
+@charset "utf-8";
+/* CSS Document */
+/*******************
+*font size
+*font bold 
+*font color 
+*******************/
+
+/*  font size */
+
+.f12 {
+	font-size: 12px;
+}
+.f14 {
+	font-size: 14px;
+}
+.f14h {
+	font-size: 14px;
+	font-weight:700;
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+}
+.f16 {
+	font-size: 16px;
+}
+.f16h {
+	font-size: 16px;
+	font-weight:700;
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+}
+.f18 {
+	font-size: 18px;
+}
+.f18h {
+	font-size: 18px;
+	font-weight:700;
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+}
+.f24 {
+	font-size: 24px;
+}
+.f24h {
+	font-size: 24px;
+	font-weight:700;
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+}
+/* font bold */
+.fontB {
+	font-weight: bold;
+}
+/* font normal */
+.fontNb {
+	font-weight: normal;
+}
+/* white */
+.white {
+	color: #FFFFFF;
+}
+.white a {
+	color: #ffffff;
+	text-decoration: none;
+}
+.white a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+/* red */
+.red {
+	color: #ed115e;
+}
+.red a {
+	color: #ed115e;
+	text-decoration: none;
+}
+.red a:hover {
+	color: #ed115e;
+	text-decoration: underline;
+}
+.red2 {
+	color: #dc5647;
+}
+.red2 a {
+	color: #dc5647;
+	text-decoration: none;
+}
+.red2 a:hover {
+	color: #dc5647;
+	text-decoration: underline;
+}
+/* gray */
+.gray {
+	color: #333;
+}
+.gray a {
+	color: #333;
+	text-decoration: none;
+}
+.gray a:hover {
+	color: #333;
+	text-decoration: none;
+}
+.gray2 {
+	color: #666;
+}
+.gray2 a {
+	color: #666;
+	text-decoration: none;
+}
+.gray2 a:hover {
+	color: #666;
+	text-decoration: none;
+}
+.gray3 {
+	color: #999;
+}
+.gray3 a {
+	color: #999;
+	text-decoration: none;
+}
+.gray3 a:hover {
+	color: #999;
+	text-decoration: none;
+}
+/* black */
+.black {
+	color: #404040;
+}
+.black a {
+	color: #404040;
+	text-decoration: none;
+}
+.black a:hover {
+	color: #404040;
+	text-decoration: underline;
+}
+/* yellow */
+.yellow {
+	color: #ff9900 !important;
+}
+.yellow a {
+	color: #ff9900 !important;
+	text-decoration: none;
+}
+.yellow a:hover {
+	color: #ff9900 !important;
+	text-decoration: underline;
+}
+/* blue */
+.blue {
+	color: #1263a1;
+}
+.blue a {
+	color: #1263a1;
+	text-decoration: none;
+}
+.blue a:hover {
+	color: #1263a1;
+	text-decoration: underline;
+}
+.Corblue {
+	color: #0053aa;
+}
+.Corblue a {
+	color: #0053aa;
+	text-decoration: none;
+}
+.Corblue a:hover {
+	color: #0053aa;
+	text-decoration: underline;
+}
+/* green */
+.green {
+	color: #49a41e;
+}
+.green a {
+	color: #49a41e;
+	text-decoration: none;
+}
+.green a:hover {
+	color: #49a41e;
+	text-decoration: underline;
+}
+.colgre {
+	color: #49a41e;
+}
+.colgre a {
+	color: #49a41e;
+	text-decoration: none;
+}
+.colgre a:hover {
+	color: #49a41e;
+	text-decoration: none;
+}
+.colgre2 {
+	color: #66a502;
+}
+.colgre2 a {
+	color: #66a502;
+	text-decoration: none;
+}
+.colgre2 a:hover {
+	color: #66a502;
+	text-decoration: none;
+}
+/* orange */
+.orange {
+	color: #e54d28;
+}
+.orange a {
+	color: #e54d28;
+	text-decoration: none;
+}
+.orange a:hover {
+	color: #e54d28;
+	text-decoration: underline;
+}
+/* brown */
+.brown {
+	color: #996633;
+}
+.brown a {
+	color: #996633;
+	text-decoration: none;
+}
+.brown a:hover {
+	color: #996633;
+	text-decoration: none;
+}
+.brown1 {
+	color: #af7817;
+}
+.brown1 a {
+	color: #af7817;
+	text-decoration: none;
+}
+.brown1 a:hover {
+	color: #af7817;
+	text-decoration: none;
+}
+/*Purple*/
+.purple {
+	color: #ed145b;
+}
+.purple a {
+	color: #ed145b;
+	text-decoration: none;
+}
+.purple a:hover {
+	color: #ed145b;
+	text-decoration: none;
+}
+.FontTah {
+	font-family: "微软雅黑","\5FAE\8F6F\96C5\9ED1", Geneva, sans-serif !important; 
+}
