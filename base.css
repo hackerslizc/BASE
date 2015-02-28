@@ -447,3 +447,15 @@ a:link, a:visited, a:hover, a:active {
 
 .text_owo{text-overflow: ellipsis; white-space: nowrap; overflow: hidden;}
 
+/*background-color*/
+.yellow_bg{ background-color:#ffe9a6;}
+.yellow_bg_1{ background-color:#fef5e4;}
+.gray_bg{ background-color:#f3f3f3;}
+.gray_bg_1{ background-color:#f7f7f7;}
+.white_bg{ background-color:#fff;}
+.pink_bg{ background-color:#fff0f5;}
+.black_bg{ background-color:#464646;}
+
+.purple_bg{ background:#ec2265;}
+
+.text_two {text-overflow:ellipsis; white-space:nowrap; overflow:hidden; }
